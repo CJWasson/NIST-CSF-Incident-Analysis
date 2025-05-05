@@ -2,7 +2,7 @@
 
 This project contains a structured incident report based on the **NIST Cybersecurity Framework (CSF)**. The scenario involves an **ICMP-based Distributed Denial of Service (DDoS) attack** that disrupted internal network services within a multimedia organization.
 
-## 🔍 Project Overview
+##  Project Overview
 
 - **Framework Used:** NIST Cybersecurity Framework  
 - **Incident Type:** ICMP Flood (DDoS)  
@@ -13,7 +13,7 @@ This project contains a structured incident report based on the **NIST Cybersecu
 The report outlines how the organization applied the five NIST CSF functions:  
 `Identify → Protect → Detect → Respond → Recover`
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 NIST-CSF-Incident-Analysis/
@@ -39,13 +39,13 @@ NIST-CSF-Incident-Analysis/
 - IDS/IPS deployment planning
 - Recovery and business continuity process
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Practice identifying, analyzing, and responding to cybersecurity threats using structured frameworks
 - Demonstrate knowledge of DDoS mitigation strategies
 - Apply security hardening, detection, and incident handling procedures
 
-## 👤 Why I Built This
+##  Why I Built This
 
 As a lifelong learner transitioning into cybersecurity, I built this project to practice applying the NIST Cybersecurity Framework (CSF) to a real-world incident scenario — a simulated ICMP-based DDoS attack.
 
