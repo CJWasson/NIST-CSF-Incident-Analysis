@@ -7,7 +7,7 @@ This walkthrough includes example pfSense firewall logs and matching SIEM search
 ##  Use Case: Misconfigured Firewall (pfSense)
 The firewall was improperly configured to allow unrestricted inbound ICMP traffic, leading to a successful ICMP-based DDoS attack.
 
-Your goal in the SIEM:  
+My goal in the SIEM:  
 - Detect the attack  
 - Confirm absence/presence of rate-limiting rules  
 - Visualize or alert on anomaly patterns
