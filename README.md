@@ -63,7 +63,7 @@ You don’t have to be an expert to get started — but this repo will help you 
 ---
 
 📄 **Bonus Resources:**
-- [NIST_CSF_Guide_Expanded.pdf](./Docs/NIST_CSF_Guide_Expanded.pdf) – Full real-world implementation guide (PDF)
+- [NIST_CSF_Guide_Expanded.pdf](./Docs/NIST_CSF_Expanded_Guide.pdf) – Full real-world implementation guide (PDF)
 - [NIST_CSF_Quick_Guide.md](./Templates/NIST_CSF_Quick_Guide.md) – Markdown table summary for quick reference
 
 ---
