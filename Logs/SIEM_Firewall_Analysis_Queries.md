@@ -19,13 +19,6 @@ My goal in the SIEM:
 May 5 02:14:02 pfSense firewall: [UFW BLOCK] IN=em0 OUT= MAC=00:0c:29:a6:6c:75 SRC=192.0.2.12 DST=10.0.0.15 LEN=84 TOS=0x00 TTL=245 ID=53104 PROTO=ICMP TYPE=8 CODE=0 ID=43432 SEQ=1
 ```
 
-##  ElasticSearch Query (Kibana)
-```kql
-event.dataset: "pfSense" AND network.transport: "icmp" AND network.direction: "inbound"
-```
-**Purpose:** Pull all inbound ICMP packets to confirm frequency and impact
-
-
 ##  Splunk Query Example
 ```splunk
 index=firewall sourcetype=pfsense_log proto=ICMP src_ip!=10.0.0.0/8 | stats count by src_ip, dest_ip
