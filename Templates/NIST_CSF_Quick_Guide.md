@@ -1,4 +1,4 @@
-# 🧭 NIST CSF Quick-Reference Table
+#  NIST CSF Quick-Reference Table
 
 This condensed guide summarizes the five core functions of the NIST Cybersecurity Framework (CSF) into a table format for fast recall and implementation.
 
