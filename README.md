@@ -58,8 +58,6 @@ My goal was not only to understand the theory, but to get hands-on with the tool
 
 This project reflects who I am: someone who learns by doing, takes time to understand the why behind every step, and wants to help others on the same path.
 
-You don’t have to be an expert to get started, but this repo will help you think like one.
-
 ---
 
 📄 **Bonus Resources:**
