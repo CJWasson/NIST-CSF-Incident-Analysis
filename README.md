@@ -19,16 +19,21 @@ The report outlines how the organization applied the five NIST CSF functions:
 NIST-CSF-Incident-Analysis/
 │
 ├── Docs/
-│   └── Incident_Report_NIST.pdf          # Polished PDF version
-│   └── Incident_Scenario_Description.pdf # Attack scenario context
+│   └── Incident_Report_NIST.pdf             # Polished PDF version
+│   └── Incident_Scenario_Description.pdf    # Attack scenario context
+│   └── NIST_CSF_Guide_Expanded.pdf          # Full PDF reference guide
 │
 ├── Configs/
-│   └── Firewall_Rate_Limit_ICMP.md       # ICMP flood firewall example
-│   └── Anti_Spoofing_IP_Verification.md  # Reverse path filtering
-│   └── ICMP_Monitoring_RealWorld_Tools.md# Tools to detect ICMP spikes
-│   └── IDS_IPS_ICMP_Snort_Rules.md       # Snort detection examples
+│   └── Firewall_Rate_Limit_ICMP.md
+│   └── Anti_Spoofing_IP_Verification.md
+│   └── ICMP_Monitoring_RealWorld_Tools.md
+│   └── IDS_IPS_ICMP_Snort_Rules.md
 │
-├── README.md                             # This file
+├── Templates/
+│   └── NIST_CSF_Response_Template.md        # Fill-in response structure
+│   └── NIST_CSF_Quick_Guide.md              # Quick reference Markdown table
+│
+├── README.md
 ```
 
 ##  Tools & Techniques Used
@@ -47,14 +52,24 @@ NIST-CSF-Incident-Analysis/
 
 ##  Why I Built This
 
-As a lifelong learner transitioning into cybersecurity, I built this project to practice applying the NIST Cybersecurity Framework (CSF) to a real-world incident scenario, a simulated ICMP-based DDoS attack.
+As a lifelong learner transitioning into cybersecurity, I built this project to practice applying the NIST Cybersecurity Framework (CSF) to a real-world incident scenario — a simulated ICMP-based DDoS attack.
 
-My goal was not only to understand the theory, but to get hands-on with the tools, commands, and configurations used by professionals. I’ve documented each solution in a way that other learners can follow step-by-step, just like I would have wanted when I was starting out.
+My goal was not only to understand the theory, but to get hands-on with the tools, commands, and configurations used by professionals. I’ve documented each solution in a way that other learners can follow step-by-step — just like I would have wanted when I was starting out.
 
 This project reflects who I am: someone who learns by doing, takes time to understand the why behind every step, and wants to help others on the same path.
 
+You don’t have to be an expert to get started — but this repo will help you think like one.
+
 ---
 
-**Prepared by:** Charles J. Wasson
+📄 **Bonus Resources:**
+- [NIST_CSF_Guide_Expanded.pdf](./Docs/NIST_CSF_Guide_Expanded.pdf) – Full real-world implementation guide (PDF)
+- [NIST_CSF_Quick_Guide.md](./Templates/NIST_CSF_Quick_Guide.md) – Markdown table summary for quick reference
+
+---
+
+**Prepared by:** Charles J. Wasson 
+**License:** MIT
+
 
 
