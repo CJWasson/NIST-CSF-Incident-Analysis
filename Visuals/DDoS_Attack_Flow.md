@@ -1,6 +1,6 @@
 #  DDoS Attack Flow Diagram
 
-This guide visualizes how a Distributed Denial of Service (DDoS) attack unfolds — from attacker to overwhelmed target.
+This guide visualizes how a Distributed Denial of Service (DDoS) attack unfolds - from attacker to overwhelmed target.
 
 ##  Flow Overview
 ```
