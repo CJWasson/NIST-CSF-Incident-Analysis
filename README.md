@@ -18,29 +18,29 @@ The report outlines how the organization applied the five NIST CSF functions:
 ```
 NIST-CSF-Incident-Analysis/
 │
-|__ Docs/
-│   - Incident_Report_NIST.pdf                  # Polished PDF version
-│   - Incident_Scenario_Description.pdf         # Attack scenario context
-│   - NIST_CSF_Guide_Expanded.pdf               # Full PDF reference guide
-|   - DDoS_Tools_Traffic_Reference_Guide.pdf    # DDoS Tools reference guide
+|__  Docs/
+│   - Incident_Report_NIST.pdf                  
+│   - Incident_Scenario_Description.pdf         
+│   - NIST_CSF_Guide_Expanded.pdf               
+|   - DDoS_Tools_Traffic_Reference_Guide.pdf    
 │
-|__ Configs/
+|__  Configs/
 │   - Firewall_Rate_Limit_ICMP.md
 │   - Anti_Spoofing_IP_Verification.md
 │   - ICMP_Monitoring_RealWorld_Tools.md
 │   - IDS_IPS_ICMP_Snort_Rules.md
 │
-|__ Templates/
-│   - NIST_CSF_Response_Template.md        # Fill-in response structure
-│   - NIST_CSF_Quick_Guide.md              # Quick reference Markdown table
+|__  Templates/
+│   - NIST_CSF_Response_Template.md        
+│   - NIST_CSF_Quick_Guide.md              
 │
-|__ Visuals/
-│   - DDoS_Attack_Flow.md                 # DDoS attack flow explanation
-│   - Network_Hardening_Before_After.md   # Hardened network layout
+|__  Visuals/
+│   - DDoS_Attack_Flow.md                 
+│   - Network_Hardening_Before_After.md   
 │
-|__ Logs/
-|   - Annotated_Incident_Logs.md          # DDoS detection example
-|   - SIEM_Firewall_Analysis_Queries.md   #  Examples for firewall misconfiguration analysis (pfSense)
+|__  Logs/
+|   - Annotated_Incident_Logs.md          
+|   - SIEM_Firewall_Analysis_Queries.md   
 |
 |__ README.md
 ```
