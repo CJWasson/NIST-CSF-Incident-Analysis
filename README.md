@@ -18,31 +18,31 @@ The report outlines how the organization applied the five NIST CSF functions:
 ```
 NIST-CSF-Incident-Analysis/
 │
-|__  Docs/
+|___  Docs/
 │   - Incident_Report_NIST.pdf                  
 │   - Incident_Scenario_Description.pdf         
 │   - NIST_CSF_Guide_Expanded.pdf               
 |   - DDoS_Tools_Traffic_Reference_Guide.pdf    
 │
-|__  Configs/
+|___  Configs/
 │   - Firewall_Rate_Limit_ICMP.md
 │   - Anti_Spoofing_IP_Verification.md
 │   - ICMP_Monitoring_RealWorld_Tools.md
 │   - IDS_IPS_ICMP_Snort_Rules.md
 │
-|__  Templates/
+|___  Templates/
 │   - NIST_CSF_Response_Template.md        
 │   - NIST_CSF_Quick_Guide.md              
 │
-|__  Visuals/
+|___  Visuals/
 │   - DDoS_Attack_Flow.md                 
 │   - Network_Hardening_Before_After.md   
 │
-|__  Logs/
+|___  Logs/
 |   - Annotated_Incident_Logs.md          
 |   - SIEM_Firewall_Analysis_Queries.md   
 |
-|__ README.md
+|___ README.md
 ```
 
 ##  Tools & Techniques Used
