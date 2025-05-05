@@ -31,7 +31,7 @@ NIST-CSF-Incident-Analysis/
 ├── README.md                             # This file
 ```
 
-## 🛠️ Tools & Techniques Used
+##  Tools & Techniques Used
 
 - NIST CSF for incident response modeling
 - ICMP traffic analysis and detection strategies
