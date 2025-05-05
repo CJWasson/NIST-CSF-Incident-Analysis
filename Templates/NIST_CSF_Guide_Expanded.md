@@ -110,7 +110,7 @@ Blocking a malicious IP and isolating a compromised endpoint within 10 minutes o
 ---
 
 ##  5. RECOVER
-"Get back to business — stronger."
+"Get back to business - stronger."
 
 ###  Purpose
 Restore normal operations and reduce the likelihood of the same event recurring.
