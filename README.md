@@ -69,7 +69,10 @@ You don’t have to be an expert to get started — but this repo will help you 
 ---
 
 **Prepared by:** Charles J. Wasson 
-**License:** MIT
+
+## License
+
+This project is licensed under the **Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND)**. You can view the full license [here](https://creativecommons.org/licenses/by-nd/4.0/).
 
 
 
