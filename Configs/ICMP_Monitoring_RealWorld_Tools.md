@@ -74,7 +74,7 @@ You can’t defend what you can’t see. Monitoring helps detect attacks early, 
 ---
 
 ##  Learner Notes
-- I found Wireshark really intuitive once I filtered for ICMP types — it helped me see how flood patterns look in real time.
+- I found Wireshark really intuitive once I filtered for ICMP types, it helped me see how flood patterns look in real time.
 - `ntopng` surprised me with how easy the dashboard setup was. I didn’t expect traffic flows to be so clear visually.
 - I still want to experiment more with setting up alerts in Prometheus/Grafana, but the basics of monitoring ICMP feel a lot more approachable now.
 
