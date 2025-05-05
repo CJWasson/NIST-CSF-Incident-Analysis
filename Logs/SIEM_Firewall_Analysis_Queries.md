@@ -34,12 +34,6 @@ index=firewall action=block proto=ICMP | timechart span=1m count
 ```
 **Purpose:** Track blocks per minute — did rate limiting start working?
 
-### Elastic (Kibana)
-```kql
-rule.name: "ICMP Rate Limit" AND action: "block"
-```
-**Purpose:** Ensure new rule is firing against incoming ICMP traffic
-
 ---
 
 ##  Investigation Enhancements
