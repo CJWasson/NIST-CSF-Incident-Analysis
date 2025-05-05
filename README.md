@@ -15,16 +15,21 @@ The report outlines how the organization applied the five NIST CSF functions:
 
 ## 📁 Repository Structure
 
+```
 NIST-CSF-Incident-Analysis/
 │
 ├── Docs/
-│ └── Incident_Report_NIST.pdf # Polished PDF version
+│   └── Incident_Report_NIST.pdf          # Polished PDF version
+│   └── Incident_Scenario_Description.pdf # Attack scenario context
 │
-├── Templates/
-│ └── Incident_Report_Template.md # Markdown version of the report
+├── Configs/
+│   └── Firewall_Rate_Limit_ICMP.md       # ICMP flood firewall example
+│   └── Anti_Spoofing_IP_Verification.md  # Reverse path filtering
+│   └── ICMP_Monitoring_RealWorld_Tools.md# Tools to detect ICMP spikes
+│   └── IDS_IPS_ICMP_Snort_Rules.md       # Snort detection examples
 │
-├── README.md # This file
-
+├── README.md                             # This file
+```
 
 ## 🛠️ Tools & Techniques Used
 
@@ -40,10 +45,18 @@ NIST-CSF-Incident-Analysis/
 - Demonstrate knowledge of DDoS mitigation strategies
 - Apply security hardening, detection, and incident handling procedures
 
+## 👤 Why I Built This
+
+As a lifelong learner transitioning into cybersecurity, I built this project to practice applying the NIST Cybersecurity Framework (CSF) to a real-world incident scenario — a simulated ICMP-based DDoS attack.
+
+My goal was not only to understand the theory, but to get hands-on with the tools, commands, and configurations used by professionals. I’ve documented each solution in a way that other learners can follow step-by-step — just like I would have wanted when I was starting out.
+
+This project reflects who I am: someone who learns by doing, takes time to understand the why behind every step, and wants to help others on the same path.
+
+You don’t have to be an expert to get started — but this repo will help you think like one.
+
 ---
 
-**Prepared by:** Charles J. Wasson 
-**Date:** May 6, 2025
-
+**Prepared by:** Charles J. Wasson
 
 
