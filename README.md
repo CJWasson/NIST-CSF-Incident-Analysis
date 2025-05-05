@@ -52,13 +52,13 @@ NIST-CSF-Incident-Analysis/
 
 ##  Why I Built This
 
-As a lifelong learner transitioning into cybersecurity, I built this project to practice applying the NIST Cybersecurity Framework (CSF) to a real-world incident scenario — a simulated ICMP-based DDoS attack.
+As a lifelong learner transitioning into cybersecurity, I built this project to practice applying the NIST Cybersecurity Framework (CSF) to a real-world incident scenario, a simulated ICMP-based DDoS attack.
 
-My goal was not only to understand the theory, but to get hands-on with the tools, commands, and configurations used by professionals. I’ve documented each solution in a way that other learners can follow step-by-step — just like I would have wanted when I was starting out.
+My goal was not only to understand the theory, but to get hands-on with the tools, commands, and configurations used by professionals. I’ve documented each solution in a way that other learners can follow step-by-step, just like I would have wanted when I was starting out.
 
 This project reflects who I am: someone who learns by doing, takes time to understand the why behind every step, and wants to help others on the same path.
 
-You don’t have to be an expert to get started — but this repo will help you think like one.
+You don’t have to be an expert to get started, but this repo will help you think like one.
 
 ---
 
